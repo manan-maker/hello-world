@@ -1,2 +1,3 @@
 # hello-world
-Hi every one my name is Manan.
+ name: Build iOS Action
+  uses: sparkfabrik/ios-build-action@v1.1.0
